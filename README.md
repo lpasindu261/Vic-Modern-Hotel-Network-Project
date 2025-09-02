@@ -66,16 +66,6 @@ Each switch is configured with **access VLANs** and **trunk links**.
 
 ---
 
-## 📷 Screenshots
-(Add your screenshots here after running the project in Cisco Packet Tracer)
-
-- ![Network Topology](screenshots/topology.png)  
-- ![Router OSPF Configuration](screenshots/ospf-config.png)  
-- ![Switch VLAN Configuration](screenshots/vlan-config.png)  
-- ![Ping Test](screenshots/ping-test.png)  
-- ![SSH Test](screenshots/ssh-test.png)  
-
----
 
 ## 🚀 How to Use
 1. Clone this repository:
